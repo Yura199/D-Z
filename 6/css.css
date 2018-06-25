@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+
+#first{
+    position: center;
+}
+
+#one{
+    display: inline-block;
+    text-align: center;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+#h{
+    color: red;
+}
+
+#f{
+    height: 220px;
+    border-radius: 5%;
+    background-color: gainsboro;
+    box-shadow: 3px 3px #4e0720;
+}
+#b{
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    width: 100%;
+}

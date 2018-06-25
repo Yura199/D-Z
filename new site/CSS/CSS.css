@@ -1,0 +1,54 @@
+/*font-family: 'Butterfly Kids', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Meddon', cursive;*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../Image/bg-color.jpg); repeat;
+    border-top: solid 5px #7e7e7e;
+    font-family: 'Great Vibes', cursive;
+    font-size: 15px;
+}
+
+.header{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.wrappre_searc{
+    float: right;
+    position: relative;
+}
+
+.search{
+    border: solid #e7e7e7 1px ;
+    background: #f3f3f3
+    color: b2b2b2;
+    font-size: 12px;
+    max-width: 158px;
+    width: 100%;
+    padding: 10px 0 10px 10px;
+    display: block;
+    margin-right: 57px;
+
+}
+
+.search_button{
+    position: absolute;
+    right: 0;
+    top: 0px;
+    border: none;
+    width: 42px;
+    height: 39px;
+    color: white;
+    background: #29c5e6;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+}

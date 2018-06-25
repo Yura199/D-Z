@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21245879-d9fe-47cc-9fa5-18a2ff110bd2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/new_front/Domachnie 2/Background.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/new_front/Domachnie 2/CSS.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6/css.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/6/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/new site/CSS/responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/new site/HTML.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Forms.html" afterPath="$PROJECT_DIR$/Forms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,31 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Background.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html">
+      <file leaf-file-name="JS_lesson1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JS_lesson1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSS.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS.css">
+      <file leaf-file-name="JS-lesson2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JS-lesson2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="97" lean-forward="true" selection-start-line="0" selection-start-column="97" selection-end-line="0" selection-end-column="97" />
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -57,8 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -77,6 +69,17 @@
         <option value="$PROJECT_DIR$/new_front/Domachnie 2/CSS.css" />
         <option value="$PROJECT_DIR$/new_front/Domachnie 2/.htaccess" />
         <option value="$PROJECT_DIR$/new_front/Domachnie 2/Background.html" />
+        <option value="$PROJECT_DIR$/new site/CSS.css" />
+        <option value="$PROJECT_DIR$/6/css.css" />
+        <option value="$PROJECT_DIR$/bad.html" />
+        <option value="$PROJECT_DIR$/6/index.html" />
+        <option value="$PROJECT_DIR$/dcdcdvdvd.html" />
+        <option value="$PROJECT_DIR$/new site/CSS/responsive.css" />
+        <option value="$PROJECT_DIR$/new site/CSS/CSS.css" />
+        <option value="$PROJECT_DIR$/new site/HTML.html" />
+        <option value="$PROJECT_DIR$/1.js" />
+        <option value="$PROJECT_DIR$/JS-lesson2.html" />
+        <option value="$PROJECT_DIR$/JS_lesson1.html" />
       </list>
     </option>
   </component>
@@ -108,6 +111,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,20 +123,17 @@
             <path>
               <item name="dz" type="b2602c69:ProjectViewProjectNode" />
               <item name="dz" type="462c0819:PsiDirectoryNode" />
-              <item name="new_front" type="462c0819:PsiDirectoryNode" />
+              <item name="6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dz" type="b2602c69:ProjectViewProjectNode" />
               <item name="dz" type="462c0819:PsiDirectoryNode" />
-              <item name="new_front" type="462c0819:PsiDirectoryNode" />
               <item name="Domachnie 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,15 +186,38 @@
       <workItem from="1527427394432" duration="1699000" />
       <workItem from="1527429267910" duration="1746000" />
       <workItem from="1527431073867" duration="1597000" />
+      <workItem from="1527433407049" duration="1960000" />
+      <workItem from="1527435454031" duration="1464000" />
+      <workItem from="1527438225213" duration="1762000" />
+      <workItem from="1527440050020" duration="1814000" />
+      <workItem from="1527441933969" duration="1772000" />
+      <workItem from="1527443772589" duration="1767000" />
+      <workItem from="1527445597358" duration="1321000" />
+      <workItem from="1527949911376" duration="836000" />
+      <workItem from="1527951022114" duration="1265000" />
+      <workItem from="1527955551053" duration="1497000" />
+      <workItem from="1528021124138" duration="1646000" />
+      <workItem from="1528022900124" duration="1560000" />
+      <workItem from="1528024762183" duration="1777000" />
+      <workItem from="1528035378229" duration="1779000" />
+      <workItem from="1528037236265" duration="1048000" />
+      <workItem from="1528039056579" duration="1865000" />
+      <workItem from="1528041016722" duration="1593000" />
+      <workItem from="1528042814079" duration="1604000" />
+      <workItem from="1528044636413" duration="1604000" />
+      <workItem from="1528057399143" duration="1040000" />
+      <workItem from="1529247946512" duration="1700000" />
+      <workItem from="1529249728555" duration="1801000" />
+      <workItem from="1529841405237" duration="1631000" />
+      <workItem from="1529843157863" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16028000" />
+    <option name="totallyTimeSpent" value="52989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19940476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -224,54 +249,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS for Background.css" />
-    <entry file="file://$PROJECT_DIR$/domashka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -416,32 +393,13 @@
     <entry file="file://$PROJECT_DIR$/12345.html" />
     <entry file="file://$PROJECT_DIR$/fdvvfv" />
     <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS for Background.css" />
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Киця.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="97" lean-forward="true" selection-start-line="0" selection-start-column="97" selection-end-line="0" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Киця.jpg" />
+    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/.htaccess" />
     <entry file="file://$PROJECT_DIR$/push from new branch.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -449,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -457,7 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,22 +428,106 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html" />
     <entry file="file://$PROJECT_DIR$/Forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="114" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domachnie 2/Background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dcdcdvdvd.html" />
+    <entry file="file://$PROJECT_DIR$/bad.html" />
+    <entry file="file://$PROJECT_DIR$/new site/CSS.css" />
+    <entry file="file://$PROJECT_DIR$/new site/JS/jquery-1.8.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="1" column="2162" lean-forward="true" selection-start-line="1" selection-start-column="2162" selection-end-line="1" selection-end-column="2162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/Image/active_tabs3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/Image/bg-color.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="19" lean-forward="false" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/bootstrap/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/bootstrap/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="1155" column="46" lean-forward="true" selection-start-line="1155" selection-start-column="46" selection-end-line="1155" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/CSS/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new site/CSS/CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="39" column="1" lean-forward="false" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.js" />
+    <entry file="file://$PROJECT_DIR$/JS-lesson2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_front/Domachnie 2/Background.html">
+    <entry file="file://$PROJECT_DIR$/JS_lesson1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
         </state>
       </provider>
